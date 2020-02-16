@@ -1,8 +1,3 @@
-<h1 style="text-align: center">  MNIST Classification Using Multi Layer Perceptrons
- </h1>
-<div style="text-align: center"><small>Feb 16 2020</small></div>
-`Name:` Nguyen Truong Phat
-
 # Introduction
 Everyday we've been surveilled and manipulated by Artificial Intelligence, observed by the greatest human-made brain equipped with reasoning-ready algorithm. Let's take a look, AI has just been bombarded for less than a decade, since Neural Network took place in 2012 with AlexNet after declared missing for half a century. [1]
 
